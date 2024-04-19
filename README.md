@@ -5,3 +5,5 @@ Codes for DE analysis 1.Analysis.r
 
 Data available here: GSE226401 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE226401 
 or in data/ folder # Tisoncik-Go_ZIKA_NHP_BulkRNAseq_FetalBrain
+
+DOI 10.5281/zenodo.10998903
